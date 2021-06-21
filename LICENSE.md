@@ -4,6 +4,7 @@
 * **Author Email**: contact@shield-me.net
 * **Product Page**: https://shield-me.net
 * **Full License Terms**: https://shield-me.net/end-user-license-agreement
+* **Terms of Service**: https://shield-me.net/terms-of-service/
 
 ### **Copyright © 2021 IMPACT INTELISOFT SRL - All Rights Reserved**
 
